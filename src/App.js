@@ -9,6 +9,7 @@ function App() {
         <p>
           With nodemon, edit <code>src/App.js</code> and save will reload.
         </p>
+        <p>With Amplify, committing the main branch will redeploy in aws.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
