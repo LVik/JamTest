@@ -1,3 +1,5 @@
+I have created this test program to see how React and AWS.Amplify work. I was following the [Build a Full-Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/) guide. To start Linux integration with github, I followed  the [Connecting to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) guide, including implementing SSH keys for my machine.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
