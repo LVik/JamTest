@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          With nodemon, any edit followed by a save will reload.
+          With nodemon, any edit followed by a save will reload the running server.
         </p>
         <p>With Amplify, committing the main branch will redeploy in <a href="https://main.d1kanevtwybs06.amplifyapp.com/">aws</a>.</p>
         <a
