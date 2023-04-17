@@ -6,7 +6,7 @@
         {
             "label": "commit",
             "type": "shell",
-            "command": "git commit -a -c \"Test message\""
+            "command": "git commit -a"
         }
     ]
 }
