@@ -6,7 +6,8 @@
         {
             "label": "commit",
             "type": "shell",
-            "command": "git commit -a"
+            "command": "git commit -a ; git push origin main",
+            "problemMatcher": []
         }
     ]
 }
